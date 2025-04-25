@@ -1,0 +1,40 @@
+Final Results for n = 10000
+Avg Brute Force RT: 84.6426916 ms
+Avg Divide & Conquer RT: 9.2210499 ms
+--------------------------------------------
+Final Results for n = 20000
+Avg Brute Force RT: 308.46784579999996 ms
+Avg Divide & Conquer RT: 11.2667708 ms
+--------------------------------------------
+Final Results for n = 30000
+Avg Brute Force RT: 670.0659667000001 ms
+Avg Divide & Conquer RT: 16.0478874 ms
+--------------------------------------------
+Final Results for n = 40000
+Avg Brute Force RT: 1124.0473125 ms
+Avg Divide & Conquer RT: 24.6855542 ms
+--------------------------------------------
+Final Results for n = 50000
+Avg Brute Force RT: 1842.5865793 ms
+Avg Divide & Conquer RT: 31.445695999999998 ms
+--------------------------------------------
+Final Results for n = 60000
+Avg Brute Force RT: 2673.8324625 ms
+Avg Divide & Conquer RT: 37.3552208 ms
+--------------------------------------------
+Final Results for n = 70000
+Avg Brute Force RT: 3625.5053834 ms
+Avg Divide & Conquer RT: 47.8274459 ms
+--------------------------------------------
+Final Results for n = 80000
+Avg Brute Force RT: 4786.1195915 ms
+Avg Divide & Conquer RT: 58.1677 ms
+--------------------------------------------
+Final Results for n = 90000
+Avg Brute Force RT: 6014.318700100001 ms
+Avg Divide & Conquer RT: 63.850396 ms
+--------------------------------------------
+Final Results for n = 100000
+Avg Brute Force RT: 7029.5694 ms
+Avg Divide & Conquer RT: 72.5335333 ms
+--------------------------------------------

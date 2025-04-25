@@ -175,6 +175,8 @@ public class ClosestPair {
             e.printStackTrace();
         }
 
+        // Uncomment the following lines to test the brute force and divide and conquer methods on random points
+         
         // Test the brute force method
         // Point[] testPoints = new Point[10];
         // for (int i = 0; i < testPoints.length; i++) {
